@@ -1,0 +1,22 @@
+{
+  "name": "cludo-challenge",
+  "version": "1.0.0",
+  "description": "## Objectives Create a simple portfolio website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Mohamed H. Mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "fontawesome": "^4.7.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
